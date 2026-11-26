@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: MIT
 """One-line entry: the comment a developer left above fragile production code."""
+# the farmer is doing fine, by the way.
 from pathlib import Path
 
 LINE = "// do not touch: this works because nobody knows why, and the last person who asked is now a farmer."
